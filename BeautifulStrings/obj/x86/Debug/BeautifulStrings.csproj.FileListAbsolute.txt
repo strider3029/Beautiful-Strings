@@ -1,0 +1,5 @@
+F:\Programming\CodeEval Challenges\Beautiful Strings\BeautifulStrings\obj\x86\Debug\HexToDecimal.exe
+F:\Programming\CodeEval Challenges\Beautiful Strings\BeautifulStrings\obj\x86\Debug\HexToDecimal.pdb
+F:\Programming\CodeEval Challenges\Beautiful Strings\BeautifulStrings\bin\Debug\HexToDecimal.exe
+F:\Programming\CodeEval Challenges\Beautiful Strings\BeautifulStrings\bin\Debug\HexToDecimal.pdb
+F:\Programming\CodeEval Challenges\Beautiful Strings\BeautifulStrings\obj\x86\Debug\ResolveAssemblyReference.cache
